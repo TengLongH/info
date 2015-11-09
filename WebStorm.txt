@@ -1,0 +1,14 @@
+Ctrl+/ 或 
+Ctrl+Shift+/	注释（// 或者/*…*/ ）
+Shift+F6	重构-重命名
+Ctrl+X	删除行
+Ctrl+D	复制行
+Ctrl+Ennter 新开一行
+Ctrl+Alt+L	格式化代码
+alt+Insert	新建一个文件或文件夹
+
+Ctrl+B或Ctrl+鼠标左键单击	快速打开光标处的类或方法，（NB的功能）
+Alt + Up/Down	Go to previous/next method 跳转到上一个/下一个方法
+ctrl+Shift+N	通过文件名快速查找工程内的文件（必记）
+ctrl+Shift+alt+N	通过一个字符快速查找位置（必记）
+

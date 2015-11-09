@@ -1,0 +1,11 @@
+Windows+ D	最小化所有窗口
+
+Windows+ +	放大镜
+
+Windows+ ↑	最大化窗口
+
+Windows+ ↓	最小化窗口
+
+Windows+ →	只占屏幕一半
+
+Windows+ ←	只占屏幕一半
